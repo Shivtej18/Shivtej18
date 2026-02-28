@@ -2,7 +2,6 @@
 
 🎓 **Student | Aspiring Software Engineer**  
 💻 **Java for DSA | MERN Stack Developer**  
-🤖 **Exploring AI Agents & Agentic AI Projects**
 
 ---
 
@@ -12,7 +11,6 @@
 - Strong focus on **Data Structures & Algorithms using Java**
 - Building real-world projects using the **MERN Stack**
 - Using **EJS & Tailwind CSS** for clean, responsive UI
-- Exploring **AI Agents / Agentic AI** for intelligent applications
 - Consistent learner with a growth mindset
 
 ---
@@ -45,9 +43,7 @@
 
 - 🔹 **DSA Practice in Java** (LeetCode-style problems)  
 - 🔹 **Weather Application** (Mini Project)  
-- 🔹 **TravelNest** – Airbnb Clone  
-- 🔹 **AI-Enhanced Resume Builder**  
-- 🔹 **Java Utility Programs**
+- 🔹 **TravelNest** – Airbnb Clone
 
 🚧 *More projects coming soon...*
 
@@ -56,15 +52,14 @@
 ## 🌱 Currently Learning
 
 - Data Structures & Algorithms in Java  
-- Full-stack MERN architecture  
-- Agentic AI & Generative AI  
+- Full-stack MERN architecture   
 - System design fundamentals (Beginner)
 
 ---
 
 ## 🤝 Collaboration & Learning
 
-- 👯 Looking to collaborate on **Java DSA**, **MERN stack projects**, and **AI-powered applications**
+- 👯 Looking to collaborate on **Java DSA**, **MERN stack projects**
 - 🤔 Looking for help with **advanced DSA**, **system design basics**, and **building & scaling MERN applications**
 
 ---
