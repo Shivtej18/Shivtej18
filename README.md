@@ -1,72 +1,132 @@
-## Hi 👋 I'm Shivtej
+# Hey, I'm Shivtej Patil 👋
 
-🎓 **Student | Aspiring Software Engineer**  
-💻 **Java for DSA | MERN Stack Developer**  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineering+Enthusiast;Java+%7C+JavaScript+%7C+TypeScript;Building+Real-World+Software" alt="Typing SVG" />
+</p>
 
----
-
-## 🚀 About Me
-
-- Computer science student passionate about **problem-solving and full-stack development**
-- Strong focus on **Data Structures & Algorithms using Java**
-- Building real-world projects using the **MERN Stack**
-- Using **EJS & Tailwind CSS** for clean, responsive UI
-- Consistent learner with a growth mindset
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 📘 DSA (Java)
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-Java-blue?style=for-the-badge)
-
-### 🌐 Web Development (MERN + EJS + Tailwind)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<p align="center">
+  <a href="https://github.com/Shivtej18">
+    <img src="https://img.shields.io/badge/GitHub-Shivtej18-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/shivtej-patil-436b01296/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## 📌 Projects
+## 👨‍💻 About Me
 
-- 🔹 **DSA Practice in Java** (LeetCode-style problems)  
-- 🔹 **Weather Application** (Mini Project)  
-- 🔹 **TravelNest** – Airbnb Clone
+I'm a Computer Science student and aspiring Software Engineer passionate about building scalable applications, solving complex problems, and exploring backend engineering.
 
-🚧 *More projects coming soon...*
+- 🚀 Developing full-stack applications with **Next.js, React, and Node.js**
+- ⚙️ Exploring backend architecture, REST APIs, and database optimization
+- 💡 Practicing Data Structures & Algorithms using **Java**
+- 🗄️ Working with PostgreSQL, MongoDB, and Prisma ORM
+- 🐳 Exploring Docker, CI/CD, and deployment workflows
+- 🌱 Continuously learning and contributing to real-world software projects
 
----
-
-## 🌱 Currently Learning
-
-- Data Structures & Algorithms in Java  
-- Full-stack MERN architecture   
-- System design fundamentals (Beginner)
+**My philosophy:** Build things, understand how they work, and keep improving.
 
 ---
 
-## 🤝 Collaboration & Learning
+## 💻 Tech Stack
 
-- 👯 Looking to collaborate on **Java DSA**, **MERN stack projects**
-- 🤔 Looking for help with **advanced DSA**, **system design basics**, and **building & scaling MERN applications**
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Featured Projects
 
-- 💻 GitHub: https://github.com/Shivtej18  
-- 💼 LinkedIn: https://www.linkedin.com/in/shivtej-patil-436b01296  
+### 01. EmitMail
+An open-source email infrastructure project. Contributing to dashboard development, frontend architecture, and UI improvements.
+
+**Tech:** Next.js · React · TypeScript · Tailwind CSS
+
+### 02. PDN Progress Tracker
+A web-based tender progress tracking system designed to digitize monitoring, reporting, and departmental workflows.
+
+**Tech:** Next.js · PostgreSQL · Prisma · Docker
+
+🔗 [View Repository](https://github.com/Shivtej18/PDN-Progress-Tracker)
+
+### 03. AI Textile Design Generator
+An AI-powered application that generates textile design concepts using generative AI.
+
+**Tech:** React · Node.js · Stable Diffusion API
 
 ---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shivtej18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivtej18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shivtej18&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivtej18&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
+</p>
+
+---
+
+## 🎯 Currently Focusing On
+
+- 📘 Advanced Data Structures & Algorithms in Java
+- ⚙️ Backend Engineering and scalable API development
+- 🗄️ PostgreSQL, indexing, transactions, and query optimization
+- 🏗️ System Design and software architecture
+- 🐳 Docker, CI/CD, and production deployments
+- 🤝 Open-source collaboration
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Shivtej18">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shivtej-patil-436b01296/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Great software is built through curiosity, consistency, and continuous improvement."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
