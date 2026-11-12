@@ -108,5 +108,5 @@ An AI-powered application that generates textile design concepts using generativ
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
