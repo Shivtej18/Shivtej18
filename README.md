@@ -92,7 +92,7 @@ An AI-powered application that generates textile design concepts using generativ
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect 🤝
 
 <p align="center">
   <a href="https://github.com/Shivtej18">
